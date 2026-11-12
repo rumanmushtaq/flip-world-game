@@ -1,0 +1,32 @@
+export const COLORS = {
+  skyTop: '#7FD3FF',
+  skyLow: '#DFF6FF',
+  caveTop: '#2A1C63',
+  caveLow: '#0F0A2C',
+  ink: '#23194A',
+  inkSoft: '#6C6296',
+  sun: '#FFD34D',
+  grape: '#7C5CFF',
+  grapeDark: '#4B33C9',
+  coral: '#FF6B6B',
+  coralDark: '#C94545',
+  blue: '#4AA8FF',
+  blueDark: '#1F6FC0',
+  teal: '#1D9E75',
+  tealDark: '#0F6E56',
+  white: '#FFFFFF',
+  lilac: '#D6CFF7',
+  starOn: '#F6B400',
+  starOff: '#E2DCF5',
+  dirt: '#B0703F',
+  grass: '#67D65F',
+  caveRock: '#4A3A9C',
+  caveRockTop: '#B39DFF',
+  pinkBlock: '#FF6FAE',
+};
+
+export const FONTS = {
+  display: 'LilitaOne_400Regular',
+  body: 'Nunito_800ExtraBold',
+  bodyBlack: 'Nunito_900Black',
+};
